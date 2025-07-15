@@ -5,3 +5,7 @@
 Introdução: Este trabalho tem como objetivo aplicar os principais algoritmos de classificação e regressão estudados em sala de aula, utilizando bases de dados reais. A proposta visa consolidar o conhecimento técnico e metodológico em Machine Learning, por meio da implementação prática das técnicas, avaliação dos resultados e interpretação crítica das descobertas.
 
 # Instruções de execução
+
+- Copie o link do repositório
+- Abra o Google Colab e clique em " Open Colab "
+- Clique em "GitHub" e cole o link do arquivo em " Insira um URL "
